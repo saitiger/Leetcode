@@ -6,7 +6,7 @@ class Solution:
         while r<len(nums):
             if(nums[r]==0):
                 flip+=1
-            if(flip>k):
+            if(flip>1):
                 while(nums[l]==0):
                     l+=1
                 flip-=1
