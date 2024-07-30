@@ -14,3 +14,16 @@ class Solution:
                 b_count_left += 1
 
         return res
+
+        # Solution 2 
+        
+        stk = []
+        cnt = 0
+
+        for c in s:
+            if stk and stk[-1] == "b" and c == "a":
+                stk.pop()  
+                cnt+=1  
+            else:
+                stk.append(c)  
+        return cnt
