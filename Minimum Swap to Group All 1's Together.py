@@ -5,6 +5,9 @@ class Solution:
         for n in nums:
             if n==1:
                 cnt+=1
+
+        if cnt==0:
+            return 0
         
         i,j,res,cnt_zero = 0,0,float(inf),0
 
