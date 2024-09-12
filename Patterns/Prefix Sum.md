@@ -4,7 +4,7 @@
 
 3 [Split Array Largest Sum](https://github.com/saitiger/Leetcode/blob/main/Split%20Array%20Largest%20Sum.py)
 
-4 Subarray Sums Divisible by K
+4 [Subarray Sums Divisible by K](https://github.com/saitiger/Leetcode/blob/main/Subarray%20Sums%20Divisible%20by%20K.py)
 
 5 [Sum of Absolute Differences in a Sorted Array](https://github.com/saitiger/Leetcode/blob/main/Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.py)
 
