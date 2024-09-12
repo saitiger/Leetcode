@@ -8,7 +8,8 @@
 
 5 [Sum of Absolute Differences in a Sorted Array](https://github.com/saitiger/Leetcode/blob/main/Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.py)
 
-6 Corporate Flight Bookings 
+6 [Corporate Flight Bookings](https://github.com/saitiger/Leetcode/blob/main/Corporate%20Flight%20Booking.py) 
+**Sweepline + Prefix Sum**
 
 7 [Range Sum Query](https://github.com/saitiger/Leetcode/blob/main/Range%20Sum%20Query%20Immutable.py)
 
