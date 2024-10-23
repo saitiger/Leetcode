@@ -1,0 +1,3 @@
+[Sort Array by Increasing Frequency](https://github.com/saitiger/Leetcode/blob/main/Sort%20Array%20by%20Increasing%20Frequency.py)
+[Custom Sort String ](https://github.com/saitiger/Leetcode/blob/cccf61c985cd93f3530b71f5499c1229dfcbcb3c/Custom%20Sort%20String.py#L4)
+[K Closest Points to Origin](https://github.com/saitiger/Leetcode/blob/cccf61c985cd93f3530b71f5499c1229dfcbcb3c/K%20Closest%20Points%20to%20Origin.py#L8)
