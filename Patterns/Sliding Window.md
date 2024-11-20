@@ -19,3 +19,5 @@
 10. Fruits in Baskets
 
 11. Minimum Window Substring
+
+12. Minimum Size Subarray Sum
