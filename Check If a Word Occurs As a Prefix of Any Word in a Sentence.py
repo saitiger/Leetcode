@@ -31,3 +31,10 @@ class Solution:
                 current_index += 1
 
         return -1
+
+# Solution 2 
+        words = sentence.split()
+        for i, word in enumerate(words, 1):
+            if word[: len(searchWord)] == searchWord:
+                return i
+        return -1
