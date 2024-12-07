@@ -8,8 +8,7 @@ class Solution:
         prefix_sum = 0
         mp = {}
         
-        dummy = ListNode(0)
-        dummy.next = head
+        dummy = ListNode(0,head)
         mp[0] = dummy
         
         current = head
