@@ -8,3 +8,14 @@ class Solution:
             else:
                 r = m
         return arr[l:l+k]
+
+# Solution 2 Using Heap (Works on unsorted input as well)
+        min_heap = [(abs(a - x), a) for a in arr]  
+        heapify(min_heap)        
+        res = []
+
+        while k > 0:
+            diff, element = heappop(min_heap)
+            res.append(element)
+            k -= 1
+        return sorted(res)
