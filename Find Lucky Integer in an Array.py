@@ -12,9 +12,10 @@ class Solution:
 
         # return res
 
+        # Solution 2
+        
         chk = [0]*501
 
-        # Solution 2
         for a in arr:
             chk[a]+=1
         
